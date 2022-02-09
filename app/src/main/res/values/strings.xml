@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Android-learn1</string>
+    <string name="logo_text">Калькулятор</string>
+    <string name="hint_1">Введите первое число</string>
+    <string name="hint_2">Введите второе число</string>
+    <string name="button">Выполнить</string>
+    <string name="output">Вывод</string>
 </resources>
